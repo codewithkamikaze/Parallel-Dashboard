@@ -2,6 +2,10 @@
 
 A simple dashboard that loads users and posts from two API endpoints **in parallel** using `Promise.all()` and displays quick statistics.
 
+## Screenshot
+
+![Dashboard Screenshot](screenshot.png)
+
 ## Features
 
 - Fetch multiple APIs in parallel to improve loading speed
@@ -27,14 +31,6 @@ A simple dashboard that loads users and posts from two API endpoints **in parall
 2. Click **Load Dashboard** to fetch data and display statistics.
 3. See live updates in the UI.
 
-## Screenshot
-
-![Dashboard Screenshot](screenshot.png) <!-- ضع صورة المشروع هنا إذا حاب -->
-
 ## Author
 
-Your Name
-
-## License
-
-MIT
+CodeWithKamikaze
